@@ -1,0 +1,3 @@
+version: v2
+modules:
+  - path: third_party/NPLN-Protocols/0.21.x
